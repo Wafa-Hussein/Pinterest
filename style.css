@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
-    background-image: url("../pothos.jpg");
+    background-image: url("pothos.jpg");
 }
 
 .pin h2{
