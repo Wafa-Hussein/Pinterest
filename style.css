@@ -1,0 +1,24 @@
+.wrapper{
+    height: 500px;
+    width: 700px;
+    border: 3px solid green;
+}
+.pin{
+    height: 200px;
+    width: 180px;
+    border-radius: 15px;
+    border: 3px solid pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    background-image: url("../pothos.jpg");
+}
+
+.pin h2{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.pin ul{
+    background-color: antiquewhite;
+}
